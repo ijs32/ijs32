@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ijs32
-- 👀 I’m interested Rust and blockchain development 
+- 👀 I’m interested in Rust and Blockchain development 
 
 <!---
 ijs32/ijs32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
